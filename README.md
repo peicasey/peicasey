@@ -1,4 +1,6 @@
-# 👉 About Me:
+[casey-spins.gif](https://postimg.cc/phvrmchZ)
+
+# Hi!
 🔎 Currently working on biostatistics research, personal projects and schoolwork!<br>☀️ I'm looking to collaborate on more on ML projects<br>🫂 I'm looking for help on data analysis and ML<br>🌱 I'm currently learning React / CSS / HTML / JSX<br>👋 Ask me about C++ and Java<br>✈️ Fun fact: I have piloted a plane!
 
 
