@@ -1,7 +1,5 @@
-[casey-spins.gif](https://postimg.cc/phvrmchZ)
-
 # Hi!
-🔎 Currently working on biostatistics research, personal projects and schoolwork!<br>☀️ I'm looking to collaborate on more on ML projects<br>🫂 I'm looking for help on data analysis and ML<br>🌱 I'm currently learning React / CSS / HTML / JSX<br>👋 Ask me about C++ and Java<br>✈️ Fun fact: I have piloted a plane!
+Currently working on biostatistics research, personal projects and schoolwork!<br>☀️ I'm looking to collaborate on more on ML projects<br>🫂 I'm looking for help on data analysis and ML<br>🌱 I'm currently learning React / CSS / HTML / JSX<br>👋 Ask me about C++ and Java<br>✈️ Fun fact: I have piloted a plane!
 
 
 ## 🔗 Socials:
@@ -13,10 +11,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=peicasey&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=peicasey&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=peicasey&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=peicasey&icon=0&color=0)](https://visitcount.itsvg.in)
 
