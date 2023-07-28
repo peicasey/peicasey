@@ -9,7 +9,7 @@
 
 - 🔭 Looking for Fall 23 and Summer 24 internships!
 
-- 🌱 Currentl making desktop apps using .NET and Electron :o
+- 🌱 Currently making desktop apps using .NET and Electron :o
 
 - 💬 Ask me about why all WinForms must be eradicated.
 
