@@ -13,7 +13,7 @@
 
 - 💬 Ask me about why all WinForms must be eradicated
 
-- 👨‍💻 Check out my personal site @ **[caseypei.me](caseypei.me)** (please I worked hard on it)
+- 👨‍💻 Check out my personal site @ **[caseypei.me](https://caseypei.me)** (please I worked hard on it)
 
 - 📫 Reach me @ **peicasey@gmail.com**!
 
