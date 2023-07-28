@@ -5,7 +5,7 @@
 </p>
 
 <h3>About Me:</h3>
-<p>Local junior Honors CS major @ Texas A&M, VP @ Aggie Coding Club, VP @ ENGR TA Org, and enjoyer of programming and/or soup.</p>
+<p>Local junior CS major @ Texas A&M, VP @ <a href="https://github.com/aggie-coding-club">Aggie Coding Club</a> + VP @ <a href="https://github.com/TAO-ENGR">ENGR TA Org</a>, and enjoyer of programming and/or soup.</p>
 
 - 🔭 Looking for Fall 23 and Summer 24 internships!
 
