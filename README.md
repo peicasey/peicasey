@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 💼 On LinkedIn @ **[casey-pei](https://www.linkedin.com/in/casey-pei/)**
+- 💼 On LinkedIn @ **[caseypei](https://www.linkedin.com/in/caseypei/)**
 
 - 🐙 On Github (here) @ **[peicasey](https://github.com/peicasey/)**
 
