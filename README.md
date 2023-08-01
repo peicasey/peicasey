@@ -1,8 +1,6 @@
-<h1 align="center">Hi! It's Casey :) 🐊</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNqYnJnNHFvaDVpY3p0cG11OGxveDIyb2RwNnh6dzVid3F1cWtiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6QihIDCMFGIws044Ne/giphy.gif" width="600" height="600" align="center" />
-</p>
+<h1 align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNqYnJnNHFvaDVpY3p0cG11OGxveDIyb2RwNnh6dzVid3F1cWtiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6QihIDCMFGIws044Ne/giphy.gif" width="200" height="200" align="center" />   Hi! It's Casey :) 🐊
+</h1>
 
 <h3>About Me:</h3>
 <p>Local junior CS major @ Texas A&M, VP @ <a href="https://github.com/aggie-coding-club">Aggie Coding Club</a> + VP @ <a href="https://github.com/TAO-ENGR">ENGR TA Org</a>, and enjoyer of programming and/or soup.</p>
