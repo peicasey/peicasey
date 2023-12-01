@@ -10,7 +10,7 @@
 
 - 🌱 Currently doing AI/ML outreach stuff @ AI4ALL :o
 
-- 💬 Ask me about message queues and caching.
+- 💬 Ask me about system design and it'll be added to my message queue.
 
 - 👨‍💻 Check out my personal site @ **[caseypei.me](https://caseypei.me)** (please I worked hard on it)
 
