@@ -3,13 +3,14 @@
 </h1>
 
 <h3>About Me:</h3>
-<p>Local junior CS major @ Texas A&M, VP @ <a href="https://github.com/aggie-coding-club">Aggie Coding Club</a> + VP @ <a href="https://github.com/TAO-ENGR">ENGR TA Org</a>, and enjoyer of programming and/or soup.</p>
+<p>Local junior CS major @ Texas A&M, VP @ <a href="https://github.com/aggie-coding-club">Aggie Coding Club</a> + VP @ <a href="https://github.com/TAO-ENGR">ENGR TA Org</a>, and enjoyer of programming and/or soup. 🍲</p>
+<p>Incoming SWE intern @ Palantir 🧑‍💻</p>
 
-- 🔭 Looking for Fall 23 and Summer 24 internships!
+- 🔭 Looking for Winter 24 / Summer 25 internships and co-ops!
 
-- 🌱 Currently making desktop apps using .NET and Electron :o
+- 🌱 Currently doing AI/ML outreach stuff @ AI4ALL :o
 
-- 💬 Ask me about why all WinForms must be eradicated.
+- 💬 Ask me about message queues and caching.
 
 - 👨‍💻 Check out my personal site @ **[caseypei.me](https://caseypei.me)** (please I worked hard on it)
 
