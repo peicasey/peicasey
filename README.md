@@ -3,7 +3,7 @@
 </h1>
 
 <h3>About Me:</h3>
-<p>Local junior CS major @ Texas A&M, VP @ <a href="https://github.com/aggie-coding-club">Aggie Coding Club</a> + VP @ <a href="https://github.com/TAO-ENGR">ENGR TA Org</a>, and enjoyer of programming and/or soup. 🍲</p>
+<p>Local junior CS major @ Texas A&M, officer @ <a href="https://github.com/acpc-org/">Aggie Competitive Programming Club</a> + VP @ <a href="https://github.com/TAO-ENGR">ENGR TA Org</a>, and enjoyer of programming and/or soup. 🍲</p>
 <p>Incoming SWE intern @ Palantir 🧑‍💻</p>
 
 - 🔭 Looking for Winter 24 / Summer 25 internships and co-ops!
