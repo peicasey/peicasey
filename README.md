@@ -3,10 +3,10 @@
 </h1>
 
 <h3>About Me:</h3>
-<p>Local junior CS major @ Texas A&M, officer @ <a href="https://github.com/acpc-org/">Aggie Competitive Programming Club</a> + President @ <a href="https://github.com/TAO-ENGR">ENGR TA Org</a>, and enjoyer of programming and/or soup. 🍲</p>
+<p>Local soon-to-be senior CS major @ Texas A&M, officer @ <a href="https://github.com/acpc-org/">Aggie Competitive Programming Club</a> + President @ <a href="https://github.com/TAO-ENGR">ENGR TA Org</a>, and enjoyer of programming and/or soup. 🍲</p>
 <p>Incoming SWE intern @ Palantir 🧑‍💻</p>
 
-- 🔭 Looking for Winter 24 / Summer 25 internships and co-ops!
+- 🔭 Looking for 2025 New Grad positions!
 
 - 🌱 Currently doing AI/ML outreach stuff @ AI4ALL :o
 
