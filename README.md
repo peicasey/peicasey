@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNqYnJnNHFvaDVpY3p0cG11OGxveDIyb2RwNnh6dzVid3F1cWtiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6QihIDCMFGIws044Ne/giphy.gif" width="200" height="200" align="center" />   Hi! It's Casey :) 🐊
 </h1>
 
-<p>Local senior CS major @ Texas A&M, webmaster @ <a href="https://github.com/acpc-org/">Aggie Competitive Programming Club</a> + President @ <a href="https://github.com/TAO-ENGR">ENGR TA Org</a>, and enjoyer of programming and/or soup. 🍲</p>
-<p>Incoming SWE intern @ Palantir 🧑‍💻</p>
+<p>Local senior CS major @ Texas A&M, webmaster @ <a href="https://github.com/acpc-org/">Aggie Competitive Programming Club</a>, and enjoyer of programming and/or soup. 🍲</p>
 
 - 🔭 Looking for 2025 New Grad positions!
 
