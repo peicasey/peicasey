@@ -6,9 +6,9 @@
 
 - 🔭 Looking for 2025 New Grad positions!
 
-- 🌱 Currently doing AI/ML outreach stuff @ AI4ALL :o
+- 🌱 Currently dreaming about updating my website
 
-- 💬 Ask me about system design and it'll be added to my message queue.
+- 💬 Ask me about edge betweenness centrality
 
 - 👨‍💻 Check out my personal site @ **[caseypei.me](https://caseypei.me)** (please I worked hard on it)
 
